@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vW5s/yl+lKBe1F/7pOo6iL84ENvyxl7h+68wO8/tlWKAxH7oo6eG4ZdwcAsSbZ/muEKvL8ojbCO7zc825uxPIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sepehr\\OneDrive\\Desktop\\New folder (2)\\New Folder\\movazi\\Minimum-Coloring-Graph\\MColoringGraph\\MColoringGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sepehr\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sepehr\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

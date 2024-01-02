@@ -1,0 +1,57 @@
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.exe
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.deps.json
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.runtimeconfig.json
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfoInputs.cache
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfo.cs
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\refint\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.genruntimeconfig.cache
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\ref\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.AssemblyReference.cache
+C:\Users\Sepehr\OneDrive\Desktop\mcoloring-graph\MColoringGraph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CopyComplete
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.exe
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.deps.json
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.runtimeconfig.json
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.AssemblyReference.cache
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfoInputs.cache
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfo.cs
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CoreCompileInputs.cache
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CopyComplete
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\refint\MColoringGraph.dll
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.genruntimeconfig.cache
+C:\Users\Hesabfa\Desktop\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\ref\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.AssemblyReference.cache
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfoInputs.cache
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.AssemblyInfo.cs
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\refint\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.exe
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.deps.json
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.runtimeconfig.json
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\MColoringGraph.pdb
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.csproj.CopyComplete
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\MColoringGraph.genruntimeconfig.cache
+C:\Users\Sepehr\OneDrive\Desktop\New folder (2)\New Folder\movazi\Minimum-Coloring-Graph\MColoringGraph\obj\Debug\net6.0\ref\MColoringGraph.dll
